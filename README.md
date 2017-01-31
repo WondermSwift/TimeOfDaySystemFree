@@ -18,6 +18,8 @@ Moon Texture: http://acxjcr.wixsite.com/acr0/u5-moon-textures
 
 Asset Store: https://www.assetstore.unity3d.com/en/#!/content/71422
 
+Notice: Because the last year I was mistreating my body with junk food, many hours of having my ass in a chair and wakefulness, the damage to my health soon became present, so I decided to stop for some months the development of my projects, as a consequence there will be no clouds soon :(.
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=726LRHX4QNEQC)
 
 
