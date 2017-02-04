@@ -5,7 +5,6 @@
 With this package you can create Basic Day/Night cycle, also it includes a system of curves and gradients to control the parameters of the lighting, sky, moon, stars, fog, etc.
 
 # Features:
-* Easy to use. 
 * Day and night cycle. 
 * Curve and gradient system. 
 * Custom unity procedural skybox.
