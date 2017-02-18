@@ -17,7 +17,7 @@ Moon Texture: http://acxjcr.wixsite.com/acr0/u5-moon-textures
 
 Asset Store: https://www.assetstore.unity3d.com/en/#!/content/71422
 
-#Notice: For health reasons I have decided to pause all my projects, so there will be no updates for a long time.
+Notice: For health reasons I have decided to pause all my projects, so there will be no updates for a long time.
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=726LRHX4QNEQC)
 
